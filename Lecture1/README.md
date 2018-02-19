@@ -20,6 +20,7 @@ In our digital world, we face again with too much information. Rich people hire 
 
 Algorithm
   * Method for solving a problem
+  * Algorithms are opinions embedded in code
   
 Data Structure
   * Method to store information
