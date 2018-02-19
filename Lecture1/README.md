@@ -27,6 +27,8 @@ Data Structure
   * Organization of Data specific to a particular problem
   
 # Graphs
+Jose Ortega y Gasset says
 > I am I plus my circumstances. 
-Jose Ortega y Gasset
 
+Fritjof Capra says, 
+> "Whenever we look at life, we look at networks". 
