@@ -46,4 +46,7 @@ Slides on undirected graphs
 ![Alt text](https://static1.squarespace.com/static/53ecdafde4b07f0225df2a99/t/593ff4b7d1758e35c364e8c7/1497363652681/?format=1500w)
  
  ## The Organized AI
+ 
+ ![Alt text](https://media.wired.com/photos/59dbddde0cd98134b30dc460/master/w_1000,c_limit/graph-IL.jpg)
+ 
  ![Alt text](deep-learning-graphic.jpg)
