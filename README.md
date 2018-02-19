@@ -23,13 +23,10 @@ Video Lectures
 The code I implement during the class is inspired from our textbook.
 
 
-# Course Evaluation Survey 
-Dear students please have access to the survey through a link available on SIS (Student Information System). 
+# Course Evaluation 
+Our Course
   * https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=3803928
 
-
-Course Evaluation
-In order to pass this course, a minimum of 35 is required at Final Exam. Attendance and course participation may effect your Discussion grade.
 
 | Assesment        | Quantity           | Percentage (%)  |
 | ------------- |:-------------:| -----:|
@@ -39,5 +36,7 @@ In order to pass this course, a minimum of 35 is required at Final Exam. Attenda
 | Midterm(s)    | 1             | 30 |
 | Final exam    | 1             |  40|
 
+In order to pass this course, a minimum of 35 is required at Final Exam. Attendance and course participation may effect your Discussion grade.
 
-
+# Survey
+Dear students please have access to the survey through a link available on SIS (Student Information System). 
