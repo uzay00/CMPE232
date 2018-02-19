@@ -44,4 +44,4 @@ Slides on undirected graphs
  
  
  ## The Organized AI
- [Alt text](deep-learning-graphic.jpg)
+ ![Alt text](deep-learning-graphic.jpg)
