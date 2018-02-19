@@ -32,3 +32,6 @@ Jose Ortega y Gasset says
 
 Fritjof Capra says, 
 > "Whenever we look at life, we look at networks". 
+
+Slides on undirected graphs
+ * https://algs4.cs.princeton.edu/lectures/41UndirectedGraphs-2x2.pdf
