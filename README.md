@@ -1,9 +1,12 @@
 # CMPE232 : Advanced Data Structure and Algorithms
 
+
+<p align="center">
+  <img src="https://algs4.cs.princeton.edu/cover.png" width="350"/>
+</p>
+
 __Textbook__.  The textbook Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.
 All the related course materials can be found on our textbook’s website. 
-
-![Alt text](https://algs4.cs.princeton.edu/cover.png)
 
 Codes:
 
