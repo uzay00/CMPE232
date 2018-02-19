@@ -26,3 +26,7 @@ Data Structure
   * Method to store information
   * Organization of Data specific to a particular problem
   
+# Graphs
+> I am I plus my circumstances. 
+Jose Ortega y Gasset
+
