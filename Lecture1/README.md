@@ -8,6 +8,12 @@
 
 >  The watches consisted of about 1000 parts each. The watches that Tempus made were designed such that, when he had to put down a partly assembled watch, it immediately fell into pieces and had to be reassembled from the basic elements. Hora had designed his watches so that he could put together sub-assemblies of about ten components each, and each sub-assembly could be put down without falling apart. Ten of these subassemblies could be put together to make a larger sub-assembly, and ten of the larger sub-assemblies constituted the whole watch.
 
+
+[![Alt text](https://img.youtube.com/vi/H6a5Hbd59AA/0.jpg)](https://www.youtube.com/watch?v=H6a5Hbd59AA)
+
+
+
+
 ## The Organized Human-Life
 
 Hunter-gatherer people settled down and turned into farmers. Farmers become specialized in some limited type of foods. They needed to exchange their products. This is how trade is born. After a while, too much exchange produced infomation overload. People needed to extend their brains to handle this much information. They invented `writing` to store and process information. After that humans cretae art, science and modern civilization.   
@@ -26,3 +32,12 @@ Data Structure
   * Method to store information
   * Organization of Data specific to a particular problem
   
+# Graphs
+Jose Ortega y Gasset says
+> I am I plus my circumstances. 
+
+Fritjof Capra says, 
+> "Whenever we look at life, we look at networks". 
+
+Slides on undirected graphs
+ * https://algs4.cs.princeton.edu/lectures/41UndirectedGraphs-2x2.pdf
