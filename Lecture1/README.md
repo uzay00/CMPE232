@@ -8,6 +8,8 @@
 
 >  The watches consisted of about 1000 parts each. The watches that Tempus made were designed such that, when he had to put down a partly assembled watch, it immediately fell into pieces and had to be reassembled from the basic elements. Hora had designed his watches so that he could put together sub-assemblies of about ten components each, and each sub-assembly could be put down without falling apart. Ten of these subassemblies could be put together to make a larger sub-assembly, and ten of the larger sub-assemblies constituted the whole watch.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H6a5Hbd59AA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## The Organized Human-Life
 
 Hunter-gatherer people settled down and turned into farmers. Farmers become specialized in some limited type of foods. They needed to exchange their products. This is how trade is born. After a while, too much exchange produced infomation overload. People needed to extend their brains to handle this much information. They invented `writing` to store and process information. After that humans cretae art, science and modern civilization.   
