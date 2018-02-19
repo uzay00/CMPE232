@@ -3,6 +3,8 @@
 __Textbook__.  The textbook Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.
 All the related course materials can be found on our textbook’s website. 
 
+![Alt text](https://algs4.cs.princeton.edu/cover.png)
+
 Codes:
 
   * https://algs4.cs.princeton.edu/code/
