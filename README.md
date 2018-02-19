@@ -5,9 +5,7 @@ All the related course materials can be found on our textbook’s website.
 
 Codes:
 
-  * http://algs4.cs.princeton.edu/10fundamentals/
-  * http://algs4.cs.princeton.edu/20sorting/
-  * http://algs4.cs.princeton.edu/30searching/
+  * https://algs4.cs.princeton.edu/code/
 
 Slides
 
@@ -15,7 +13,7 @@ Slides
 
 Video Lectures
 
-  * https://www.coursera.org/learn/algorithms-part1
+  * https://www.coursera.org/learn/algorithms-part2
 
 The code I implement during the class is inspired from our textbook.
 
