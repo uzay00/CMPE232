@@ -25,4 +25,5 @@ The code I implement during the class is inspired from our textbook.
 
 # Course Evaluation Survey 
 Dear students please have access to the survey through a link available on SIS (Student Information System). 
+  * https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=3803928
 
