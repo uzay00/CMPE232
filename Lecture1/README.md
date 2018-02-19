@@ -8,7 +8,7 @@
 
 >  The watches consisted of about 1000 parts each. The watches that Tempus made were designed such that, when he had to put down a partly assembled watch, it immediately fell into pieces and had to be reassembled from the basic elements. Hora had designed his watches so that he could put together sub-assemblies of about ten components each, and each sub-assembly could be put down without falling apart. Ten of these subassemblies could be put together to make a larger sub-assembly, and ten of the larger sub-assemblies constituted the whole watch.
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=H6a5Hbd59AA)
+[![Alt text](https://img.youtube.com/vi/H6a5Hbd59AA/0.jpg)](https://www.youtube.com/watch?v=H6a5Hbd59AA)
 
 ## The Organized Human-Life
 
