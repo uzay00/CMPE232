@@ -16,7 +16,7 @@
 
 ## The Organized Human-Life
 
-Hunter-gatherer people settled down and turned into farmers. Farmers become specialized in some limited type of foods. They needed to exchange their products. This is how trade is born. After a while, too much exchange produced infomation overload. People needed to extend their brains to handle this much information. They invented `writing` to store and process information. After that humans cretae art, science and modern civilization.   
+Hunter-gatherer people settled down and turned into farmers. Farmers become specialized in some limited type of foods. They needed to exchange their products. This is how trade is born. After a while, too much exchange produced infomation overload. People needed to extend their brains to handle this much information. They invented `writing` to store and process information. After that humans create art, science and modern civilization.   
 
 ## The Organized Mind
 In our digital world, we face again with too much information. Rich people hire asistants to organize their jobs. We, as ordinary people, find our way of handling our jobs. Categorization reduces mental effort.  
