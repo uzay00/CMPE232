@@ -87,7 +87,8 @@ Slides on undirected graphs
  
  
  ## The Organized AI
- 
+  Graph organized as an array of Bags
+  
  ![Alt text](https://media.wired.com/photos/59dbddde0cd98134b30dc460/master/w_1000,c_limit/graph-IL.jpg)
  
  ![Alt text](figure/deep-learning-graphic.jpg)
@@ -100,7 +101,7 @@ Slides on undirected graphs
 https://github.com/uzay00/CMPE232/blob/master/Lecture1/code/Bag.java
  <br><br>
  
-#### graphrepresentation
+#### Graph Representaion
 ![Alt text](figure/graphrepresentation.png) 
 <br><br>   
  
