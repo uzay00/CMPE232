@@ -54,7 +54,7 @@ Slides on undirected graphs
  <br>
  
 #### Word net
-[![Alt text](wordnet.png)](https://www.codeproject.com/Articles/11835/WordNet-based-semantic-similarity-measurement)
+[![Alt text](figure/wordnet.png)](https://www.codeproject.com/Articles/11835/WordNet-based-semantic-similarity-measurement)
 
  <br><br><br><br> 
  
@@ -62,4 +62,4 @@ Slides on undirected graphs
  
  ![Alt text](https://media.wired.com/photos/59dbddde0cd98134b30dc460/master/w_1000,c_limit/graph-IL.jpg)
  
- ![Alt text](deep-learning-graphic.jpg)
+ ![Alt text](figure/deep-learning-graphic.jpg)
