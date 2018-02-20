@@ -1,7 +1,7 @@
 
 
 ## The Organized Business
-#### The parable of the two watchmakers
+#### The parable of the two watchmakers from Nobel Leurate Herbert Simon
 
 
 > There once were two watchmakers, named Hora and Tempus, who made very fine watches. The phones in their workshops rang frequently and new customers were constantly calling them. However, Hora prospered while Tempus became poorer and poorer. In the end, Tempus lost his shop. What was the reason behind this?
