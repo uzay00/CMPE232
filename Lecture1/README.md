@@ -49,17 +49,20 @@ Slides on undirected graphs
  * https://algs4.cs.princeton.edu/lectures/41UndirectedGraphs-2x2.pdf
  
 <br><br><br><br> 
-#### Food Web
-![Alt text](https://static1.squarespace.com/static/53ecdafde4b07f0225df2a99/t/593ff4b7d1758e35c364e8c7/1497363652681/?format=1500w)
 
- <br>
- 
 
- 
 #### Paris Metro
 ![Alt text](figure/paris.png)
  <br><br>
  
+#### Food Web
+![Alt text](https://static1.squarespace.com/static/53ecdafde4b07f0225df2a99/t/593ff4b7d1758e35c364e8c7/1497363652681/?format=1500w)
+
+ <br><br>
+ 
+
+ 
+
 #### Facebook
 ![Alt text](figure/facebook.png)
  <br><br>
@@ -90,8 +93,18 @@ Slides on undirected graphs
  ![Alt text](figure/deep-learning-graphic.jpg)
  
  
- # More on Graphs
+ # Graph Representaion
  
-  
-    
+ #### Bag Api
+![Alt text](figure/bag.png)
+https://github.com/uzay00/CMPE232/blob/master/Lecture1/code/Bag.java
+ <br><br>
  
+#### graphrepresentation
+![Alt text](figure/graphrepresentation.png) 
+<br><br>   
+ 
+ 
+ #### graphrepresentation
+![Alt text](figure/graphcode.png) 
+<br><br>  
