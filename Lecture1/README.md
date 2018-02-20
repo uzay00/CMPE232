@@ -54,6 +54,20 @@ Slides on undirected graphs
 
  <br>
  
+
+ 
+#### Paris Metro
+![Alt text](figure/paris.png)
+ <br><br>
+ 
+#### Facebook
+![Alt text](figure/facebook.png)
+ <br><br>
+ 
+#### Internet
+![Alt text](figure/internet.png)
+<br><br>  
+
 #### Game of Thrones
 ![Alt text](https://c-7npsfqifvt34x24tx2eieovyx2edpn.g00.sfgate.com/g00/3_c-7x78x78x78.tghbuf.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2ft.ieovy.dpnx2fqipuptx2f56x2f25x2f55x2f0861801x2f5x2f031y031.qohx3fj21d.nbslx3djnbhf_$/$/$/$/$/$/$/$)
 
@@ -62,10 +76,22 @@ Slides on undirected graphs
 #### Word net
 [![Alt text](figure/wordnet.png)](https://www.codeproject.com/Articles/11835/WordNet-based-semantic-similarity-measurement)
 
- <br><br><br><br> 
+ <br><br>
+ 
+ 
+ <br><br> 
+ 
+ 
  
  ## The Organized AI
  
  ![Alt text](https://media.wired.com/photos/59dbddde0cd98134b30dc460/master/w_1000,c_limit/graph-IL.jpg)
  
  ![Alt text](figure/deep-learning-graphic.jpg)
+ 
+ 
+ # More on Graphs
+ 
+  
+    
+ 
