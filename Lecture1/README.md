@@ -105,6 +105,6 @@ https://github.com/uzay00/CMPE232/blob/master/Lecture1/code/Bag.java
 <br><br>   
  
  
- #### graphrepresentation
+ ## Graph organized as an array of Bags
 ![Alt text](figure/graphcode.png) 
 <br><br>  
