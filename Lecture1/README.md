@@ -47,14 +47,17 @@ Slides on undirected graphs
 ![Alt text](https://static1.squarespace.com/static/53ecdafde4b07f0225df2a99/t/593ff4b7d1758e35c364e8c7/1497363652681/?format=1500w)
 
  <br>
+ 
 #### Game of Thrones
 ![Alt text](https://c-7npsfqifvt34x24tx2eieovyx2edpn.g00.sfgate.com/g00/3_c-7x78x78x78.tghbuf.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2ft.ieovy.dpnx2fqipuptx2f56x2f25x2f55x2f0861801x2f5x2f031y031.qohx3fj21d.nbslx3djnbhf_$/$/$/$/$/$/$/$)
 
  <br>
+ 
 #### Word net
 [![Alt text](wordnet.png)](https://www.codeproject.com/Articles/11835/WordNet-based-semantic-similarity-measurement)
 
  <br><br><br><br> 
+ 
  ## The Organized AI
  
  ![Alt text](https://media.wired.com/photos/59dbddde0cd98134b30dc460/master/w_1000,c_limit/graph-IL.jpg)
