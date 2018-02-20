@@ -31,7 +31,13 @@ Algorithm
 Data Structure
   * Method to store information
   * Organization of Data specific to a particular problem
-  
+
+<br><br>
+![Alt text](figure/binarysearch.png)
+<br>
+![Alt text](figure/binarysearchtree.png)
+<br><br>
+
 # Graphs
 Jose Ortega y Gasset says
 > I am I plus my circumstances. 
