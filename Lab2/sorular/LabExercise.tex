@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+ 
+\urlstyle{same}
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+\begin{document}
+\author{Lab Exercise 2}
+\title{CMPE 232 - Advanced Data Structures and Algorithms}
+%\setlength\headheight{26pt} 
+
+
+
+
+\date{}
+\maketitle
+\setcounter{secnumdepth}{0}
+\begin{enumerate}
+\item Test \href{https://github.com/uzay00/CMPE232/blob/master/Lecture2/DepthFirstSearch.java}{DepthFirstSearch} class with \href{https://github.com/uzay00/CMPE232/blob/master/Lecture2/tinyG.txt}{tinyG.txt} file.
+\item Create a txt file that represents \href{https://github.com/uzay00/CMPE232/blob/master/Lab2/DFS.png}{this graph}.
+\item Test \href{https://github.com/uzay00/CMPE232/blob/master/Lecture2/DepthFirstSearch.java}{DepthFirstPath} class to see if there is a path from 0 to 5 and from 0 to 6 in the graph from question 2. 
+\end{enumerate}
+
+
+\blfootnote{Lab exercises don't affect your overall grade. However you are required to submit your work.}
+\end{document}
