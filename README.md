@@ -30,11 +30,10 @@ Our Course
 
 | Assesment        | Quantity           | Percentage (%)  |
 | ------------- |:-------------:| -----:|
-| Quiz          | 5             | 10|
-| Project       | 1             | 15|
-| Discussion    | 0             | 5 |
+| Quiz          | 4             | 15|
+| Project       | 1             | 25|
 | Midterm(s)    | 1             | 30 |
-| Final exam    | 1             |  40|
+| Final exam    | 1             |  30|
 
 In order to pass this course, a minimum of 35 is required at Final Exam. Attendance and course participation may effect your Discussion grade.
 
