@@ -25,7 +25,7 @@ The code I implement during the class is inspired from our textbook.
 
 # Course Evaluation 
 Our Course
-  * https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=3803928
+  * https://ects.bilgi.edu.tr/Course/Detail?Catalog_CourseId=8277320
 
 
 | Assesment        | Quantity           | Percentage (%)  |
