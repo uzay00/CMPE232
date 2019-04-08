@@ -28,12 +28,9 @@ Project: Basics of Computatation Graphs
  
  
 ### 1. Convert equation to computation graph
-first identify nodes.
+first identify nodes: `J = d (a + bc)`
 
-$$ J = d (a + bc) $$
-
-Here
-$ a=5 $, $ b=3 $, $ c=2 $ , $ d=3 $,
+Here `a=5, b=3, c=2 ,d=3`
   
 ### 1. Create Nodes
 Each node has 
@@ -54,9 +51,7 @@ Connect all nodes.
  - Run forward propagation
 
 ### 4. Execute Graph: backward propagation
-compute
-
-$$ \frac{\partial J}{\partial a} $$
+compute `dJ/da` and other derivatives
  
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
 ![2-TopologicalOrder.JPG](2-TopologicalOrder.JPG)
