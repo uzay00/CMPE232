@@ -1,10 +1,8 @@
-# Project
-
-Project: Basics of Computatation Graphs
+# Project: Basics of Computatation Graphs
+Some references
  - [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
 
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
- 
  
 
 ### 0. Convert equation to computation graph
