@@ -15,6 +15,10 @@ Indicate your project groups on [google document link](https://docs.google.com/s
 
 
 
+
+ 
+ 
+
  # Project
 
 Project: Basics of Computatation Graphs
@@ -23,7 +27,33 @@ Project: Basics of Computatation Graphs
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
  
  
-
+ ### 1. Convert equation to computation graph
+ first identify nodes.
+ ## J = d (a + bc)##
+ Here $a=5$, $b=3$,$c=2$,$d=3$,
+  
+ ### 1. Create Nodes
+ Each node has 
+  - list of input nodes
+  - list of output nodes
+  
+ Different type of nodes
+  - Placeholder
+  - Variable
+  - Operation
+   - add, multiply, matmul, sigmoid
+ 
+ ### 2. Build Graph
+ Connect all nodes.
+ 
+ ### 3. Execute Graph: forward propagation
+  - Get topological order (on reversed graph)
+  - Run forward propagation
+  
+ ### 4. Execute Graph: backward propagation
+ compute
+ $$\frac{\partial J}{\partial a}$$
+ 
  ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
  ![2-TopologicalOrder.JPG](2-TopologicalOrder.JPG)
  ![3-ProjectComputationGraph.JPG](3-ProjectComputationGraph.JPG)
