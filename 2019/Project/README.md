@@ -10,9 +10,7 @@ Indicate your project groups on [google document link](https://docs.google.com/s
 
 # To-Do
 ### 0. Convert equation to computation graph
-first identify nodes: `J = d (a + bc)`
-
-Here `a=5, b=3, c=2 ,d=3`
+First identify nodes from the given equation: Ex: `J = d (a + bc)`
   
 ### 1. Create Nodes
 Each node has 
@@ -30,7 +28,7 @@ Connect all nodes.
 
 ### 3. Execute Graph: forward propagation
  - Get topological order (on reversed graph)
- - Run forward propagation
+ - Run forward propagation with given values Ex: `a=5, b=3, c=2 ,d=3`
 
 ### 4. Execute Graph: backward propagation
 compute `dJ/da` and other derivatives
