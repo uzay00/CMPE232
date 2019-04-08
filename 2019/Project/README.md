@@ -4,7 +4,7 @@ Some references
 
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
  
-
+# To-Do
 ### 0. Convert equation to computation graph
 first identify nodes: `J = d (a + bc)`
 
