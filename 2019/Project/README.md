@@ -1,3 +1,11 @@
+# Project Groups
+Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
+
+
+# Time
+
+
+
 Project: Basics of Computatation Graphs
  - [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
 
