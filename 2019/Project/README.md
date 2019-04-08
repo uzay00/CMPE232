@@ -6,20 +6,6 @@ Project: Basics of Computatation Graphs
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
  
  
-|  Date |  Program | 
-|---|---|
-|  0. Convert equation to computation graph |  first identify nodes: `J = d (a + bc)` Here `a=5, b=3, c=2 ,d=3` | 
-|  1. Create Nodes |  Each node has 
- - list of input nodes
- - list of output nodes
-  
-Different type of nodes
- - Placeholder
- - Variable
- - Operation
-  - add, multiply, matmul, sigmoid | 
-  
-
 
 ### 0. Convert equation to computation graph
 first identify nodes: `J = d (a + bc)`
