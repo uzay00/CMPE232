@@ -6,10 +6,10 @@ Indicate your project groups on [google document link](https://docs.google.com/s
 
 |  Date |  Program | 
 |---|---|
-|  9 April |   |
-|  16 April|   |
+|  9 April |   String Sorts|
+|  16 April|   Tries|
 |  23 April |  Holiday |
-|  30 April|   |
+|  30 April|   Substring Search|
 |  7 May|  [Project Presentation](https://github.com/uzay00/CMPE232/tree/master/2019/Project)|
 |  14 May|  Review |
 
