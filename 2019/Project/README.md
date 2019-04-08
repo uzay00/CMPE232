@@ -4,6 +4,10 @@ Some references
 
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
  
+# Project Groups
+Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
+
+
 # To-Do
 ### 0. Convert equation to computation graph
 first identify nodes: `J = d (a + bc)`
@@ -37,7 +41,6 @@ compute `dJ/da` and other derivatives
 
 # Bonus HW
 ![0-Bonus_Arbitrage.JPG](0-Bonus_Arbitrage.JPG)
-
 
 # Project Groups
 Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
