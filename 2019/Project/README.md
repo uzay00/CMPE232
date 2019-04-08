@@ -1,25 +1,4 @@
-# Project Groups
-Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
-
-
-# Time
-
-|  Date |  Program | 
-|---|---|
-|  9 April |   String Sorts|
-|  16 April|   Tries|
-|  23 April |  Holiday |
-|  30 April|   Substring Search|
-|  7 May|  [Project Presentation](https://github.com/uzay00/CMPE232/tree/master/2019/Project)|
-|  14 May|  Review |
-
-
-
-
- 
- 
-
- # Project
+# Project
 
 Project: Basics of Computatation Graphs
  - [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
@@ -59,3 +38,24 @@ compute `dJ/da` and other derivatives
 
 # Bonus HW
 ![0-Bonus_Arbitrage.JPG](0-Bonus_Arbitrage.JPG)
+
+
+# Project Groups
+Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
+
+
+# Time
+
+|  Date |  Program | 
+|---|---|
+|  9 April |   String Sorts|
+|  16 April|   Tries|
+|  23 April |  Holiday |
+|  30 April|   Substring Search|
+|  7 May|  [Project Presentation](https://github.com/uzay00/CMPE232/tree/master/2019/Project)|
+|  14 May|  Review |
+
+
+
+
+ 
