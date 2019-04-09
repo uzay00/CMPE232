@@ -1,4 +1,4 @@
-# Project: Basics of Computatation Graphs
+# Project: Basics of Computation Graphs
 
 Evaluation will be done over 120 Points. Extra 20 P will be given for backward propagation.
 
