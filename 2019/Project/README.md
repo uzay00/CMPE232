@@ -9,9 +9,9 @@ Indicate your project groups on [google document link](https://docs.google.com/s
 
 
 # To-Do
-Evaluation will be done over 110 Points. Extra 10 P will be given for backward propagation.
+Evaluation will be done over 120 Points. Extra 20 P will be given for backward propagation.
 
-### 0. [25P] Convert equation to computation graph
+### 0. [30P] Convert equation to computation graph
 First identify nodes from the given equation: Ex: `J = d (a + bc)`
   
 ### 1. [20P] Create Nodes
@@ -28,7 +28,7 @@ Different type of nodes
 ### 2. [10P] Build Graph
 Connect all nodes.
 
-### 3. [25P] Execute Graph: forward propagation
+### 3. [30P] Execute Graph: forward propagation
  - Get topological order (on reversed graph)
  - Run forward propagation with given values Ex: `a=5, b=3, c=2 ,d=3`
 
