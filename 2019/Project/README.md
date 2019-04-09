@@ -4,6 +4,12 @@ Some references
 
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
  
+### Deadlines
+
+ - Forming groups: 17 April 2019
+ - Uploading project code, report and presentation to Bilgi Learn: 6 May 2019
+ - Presentation : 7 May 2019
+
 # Project Groups
 Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
 
