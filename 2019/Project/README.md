@@ -30,7 +30,7 @@ Connect all nodes.
  - Get topological order (on reversed graph)
  - Run forward propagation with given values Ex: `a=5, b=3, c=2 ,d=3`
 
-### 4. [25P] Execute Graph: backward propagation
+### 4. [30P] Execute Graph: backward propagation
 compute `dJ/da` and other derivatives
  
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
