@@ -38,6 +38,7 @@ Connect all nodes.
  - Presentation : 7 May 2019
 
  <BR> <BR>
+### Project explanation (26 March 2019 Lecture)
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
 ![2-TopologicalOrder.JPG](2-TopologicalOrder.JPG)
 ![3-ProjectComputationGraph.JPG](3-ProjectComputationGraph.JPG)
