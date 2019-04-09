@@ -1,13 +1,5 @@
 # Project: Basics of Computatation Graphs
 
-### Deadlines
-
- - Forming groups: 17 April 2019
-  - Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
- - Uploading project code, report and presentation to Bilgi Learn: 6 May 2019
- - Presentation : 7 May 2019
-
-# To-Do
 Evaluation will be done over 120 Points. Extra 20 P will be given for backward propagation.
 
 ### 0. [30P] Convert equation to computation graph
@@ -38,7 +30,13 @@ Connect all nodes.
  - [Deep Learning From Scratch I: Computational Graphs](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
  - [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
 
- 
+### Deadlines
+
+ - Forming groups: 17 April 2019
+   - Indicate your project groups on [google document link](https://docs.google.com/spreadsheets/d/1eA8juAoMCszqZNhIjR1ZPLR2L6qhRe1TfTPpugRA574/edit?usp=sharing)
+ - Uploading project code, report and presentation to Bilgi Learn: 6 May 2019
+ - Presentation : 7 May 2019
+
  
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
 ![2-TopologicalOrder.JPG](2-TopologicalOrder.JPG)
