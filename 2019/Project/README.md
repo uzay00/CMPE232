@@ -9,10 +9,10 @@ Indicate your project groups on [google document link](https://docs.google.com/s
 
 
 # To-Do
-### 0. Convert equation to computation graph
+### 0. [25P] Convert equation to computation graph
 First identify nodes from the given equation: Ex: `J = d (a + bc)`
   
-### 1. Create Nodes
+### 1. [25P] Create Nodes
 Each node has 
  - list of input nodes
  - list of output nodes
@@ -23,14 +23,14 @@ Different type of nodes
  - Operation
   - add, multiply, matmul, sigmoid
  
-### 2. Build Graph
+### 2. [15P] Build Graph
 Connect all nodes.
 
-### 3. Execute Graph: forward propagation
+### 3. [25P] Execute Graph: forward propagation
  - Get topological order (on reversed graph)
  - Run forward propagation with given values Ex: `a=5, b=3, c=2 ,d=3`
 
-### 4. Execute Graph: backward propagation
+### 4. [20P] Execute Graph: backward propagation
 compute `dJ/da` and other derivatives
  
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
