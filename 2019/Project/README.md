@@ -37,7 +37,7 @@ Connect all nodes.
  - Uploading project code, report and presentation to Bilgi Learn: 6 May 2019
  - Presentation : 7 May 2019
 
- 
+ <BR> <BR>
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
 ![2-TopologicalOrder.JPG](2-TopologicalOrder.JPG)
 ![3-ProjectComputationGraph.JPG](3-ProjectComputationGraph.JPG)
