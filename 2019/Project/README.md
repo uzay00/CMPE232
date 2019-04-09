@@ -33,7 +33,7 @@ Connect all nodes.
  - Run forward propagation with given values Ex: `a=5, b=3, c=2 ,d=3`
 
 ### 4. [30P] Execute Graph: backward propagation
-compute `dJ/da` and other derivatives using BFS algorithm.
+ - compute `dJ/da` and other derivatives using chain rule over the edge weights on the shortest path given by the BFS(J) on the reversed graph.
  
 ![1-GraphProcessing.JPG](1-GraphProcessing.JPG)
 ![2-TopologicalOrder.JPG](2-TopologicalOrder.JPG)
