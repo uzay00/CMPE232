@@ -4,7 +4,9 @@ Evaluation will be done over 120 Points. Extra 20 P will be given for backward p
 
 ### 0. [30P] Convert equation to computation graph
 First identify nodes from the given equation: Ex: `J = d (a + bc)`
-  
+ - convert string `J = d (a + bc)` to equations
+ - draw computation graph using networkx library
+ 
 ### 1. [20P] Create Nodes
 Each node has 
  - list of input nodes
